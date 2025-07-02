@@ -1,0 +1,19 @@
+{
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "8f1hYgzKZ3Po5TyAWqBJUmvc5KaXSgNkRnFMHfTBpump",
+      "symbol": "HFRG",
+      "name": "HOTFROGE",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/hfPM-TtWJyYS-S69-FC3GEie1AhnenNirjCD7Nk0KGA",
+      "tags": ["meme", "community"],
+      "extensions": {
+        "website": "https://hotfroge.world",
+        "twitter": "https://x.com/hfrg_official",
+        "telegram": "https://t.me/HOTFROGE",
+        "description": "HOTFROGE ($HFRG) is a fair-launch Solana meme coin with 1 billion supply, strong community support, and plans for CEX listings and in-app utility."
+      }
+    }
+  ]
+}
